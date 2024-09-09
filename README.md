@@ -52,23 +52,3 @@ We welcome contributions from the community. If you would like to contribute to 
 5. Submit a pull request to the main repository.
 
 We will review your contribution and merge it if it meets our guidelines and standards.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Authors
-
-👤 **Mohammed Nechba**
-
-* LinkedIn: [@NechbaMohammed](https://www.linkedin.com/in/mohammed-nechba-926214225/)
-* GitHub: [@NechbaMohammed](https://www.github.com/NechbaMohammed)
-
-👤 **Mohamed Mouhajir**
-
-* LinkedIn: [@mohamedmouhajir](https://www.linkedin.com/in/mohamed-mouhajir-90450a235/)
-* GitHub: [@mohamedmouhajir](https://github.com/mohamedmohamed2021)
-
-👤 **Yassine Sedjari**
-
-* LinkedIn: [@yassinesedjari](https://www.linkedin.com/in/yassine-sedjari-4074aa189/)
-* GitHub: [@yassinesedjari](https://github.com/Heyyassinesedjari)
