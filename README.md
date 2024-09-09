@@ -1,10 +1,10 @@
 # Factoid Question Answering System
 
 ![Project Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 
 ## Introduction
-The Factoid Question Answering System is an Open-domain Question Answering (ODQA) project that focuses on answering factoid questions in natural language.
+The Fact Based Question Answering System is an Open-domain Question Answering (ODQA) project that focuses on answering factoid questions in natural language.
 
 Factoid questions are those seeking brief, factual information that can be easily verified. They typically require a yes or no answer or a brief explanation and often inquire about specific details such as dates, names, places, or events.
 
@@ -35,16 +35,6 @@ Document Retriever in QA is usually implemented using TF-IDF, which matches keyw
 ## Sequence Diagram
 ![logo](fig/fig2.png)
 
-
-## Demo
-You can experience the Factoid Question Answering System using the following links:
-
-- [Arabic Version](https://question-answering-system-gs1p.onrender.com/Question_Answering_AR)
-- [English Version](https://question-answering-system-gs1p.onrender.com/Question_Answering_EN)
-
-Please feel free to try out the system with your factoid questions in both Arabic and English languages.
-
-[Watch the Demo Video](https://drive.google.com/file/d/18HBl332feEmRSQztoxuiUoLVKbGRJfsd/view)
 
 ## Installation
 To install the project, you can use the following command :
